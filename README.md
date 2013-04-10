@@ -10,10 +10,10 @@ NOTE: Repos directory (well, the directory it is symlinked too) has clones of th
 10gen
 centos
 epel
-puppet
 jenkins
-remi
 percona
+puppet
+remi
 snap
 
 --
